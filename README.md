@@ -1,6 +1,6 @@
 # Multi-omics Analysis of Habit-Free TCGA Oral Cancer
 
-This repository contains a reproducible Snakemake-based workflow for the analysis of multi-omics data from habit-free TCGA oral cancer samples.
+This repository contains a Snakemake-based workflow for the analysis of multi-omics data from habit-free TCGA oral cancer samples.
 
 ##Created on 23-12-2025
 ##Author :Sinumol George
